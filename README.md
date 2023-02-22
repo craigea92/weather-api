@@ -21,5 +21,10 @@ git clone https://github.com/craigea92/weather-api.git
 npm install
 node app.js
 ```
+
+## Screenshots
+<img width="860" alt="image" src="https://user-images.githubusercontent.com/82875984/220700131-1abddc92-5182-43b8-8390-3df2701c2caf.png">
+<img width="860" alt="image" src="https://user-images.githubusercontent.com/82875984/220700237-d23be442-a13d-43e7-b28c-51e97dd41631.png">
+
 ## What is an API?
 APIs are an essential mechanism that facilitates communication between two software components by using a specific set of protocols and definitions. For instance, suppose you want to know the daily weather updates. In that case, the weather application on your mobile device communicates with the weather bureau's software system through APIs to access the daily weather data and provide you with real-time weather information on your phone.
