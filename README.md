@@ -10,6 +10,7 @@ Moving forward, I plan to apply the skills and knowledge gained from this projec
 ## Tech Stack
 <a href="https://www.javascript.com/"> <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript"/> </a>
 <a href="https://nodejs.org/en/"> <img src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" alt="node.js"/> </a>
+<a href="https://expressjs.com/"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=40&color=00ff00" alt="express"/> </a> 
 <a href="https://www.npmjs.com/"> <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=40&color=currentColor" alt="npm"/> </a>
 <a href="https://openweathermap.org/"> <img src="https://icongr.am/material/cloud-search.svg?size=40&color=ff8000" alt="openweather"/> </a>
 <a href="https://www.w3schools.com/html/"> <img src="https://icongr.am/devicon/html5-original.svg?size=40&color=8000ff" alt="html5"/> </a> 
